@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="370ff03b-5651-4188-b77a-415ee8fb9867" name="Changes" comment="Se elimino el main">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemploo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo2.py" afterDir="false" />
-    </list>
+    <list default="true" id="370ff03b-5651-4188-b77a-415ee8fb9867" name="Changes" comment="se agrego ejem 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +29,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "Rebasing main"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -112,13 +109,30 @@
       <option name="project" value="LOCAL" />
       <updated>1725924005820</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="se agrego ejem 2">
+      <option name="closed" value="true" />
+      <created>1725924538528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924538528</updated>
+    </task>
+    <task id="LOCAL-00006" summary="se agrego ejem 2">
+      <option name="closed" value="true" />
+      <created>1725924602976</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924602976</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linea base del proyecto" />
     <MESSAGE value="Refactorizacion ejem01" />
     <MESSAGE value="Se elimino el main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se elimino el main" />
+    <MESSAGE value="se agrego ejem 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agrego ejem 2" />
   </component>
 </project>
