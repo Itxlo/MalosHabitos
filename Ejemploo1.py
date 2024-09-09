@@ -8,4 +8,3 @@ if __name__ == "__main__":
     multiplicador = float(input("Ingrese el multiplicador: "))
     resultado = multiplicacion(multiplicando, multiplicador)
     print(f"{multiplicando} * {multiplicador} = {resultado}")
-12
