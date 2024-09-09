@@ -1,5 +1,5 @@
-def calcular(x, y, z):
-    resultado = x * y + z
+def calcular(valor1, valor2, valor3):
+    resultado = valor1 * valor2 + valor3
     return resultado
 
 if __name__ == "__main__":
